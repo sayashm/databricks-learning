@@ -24,7 +24,6 @@ Each pipeline folder is numbered in the order it runs:
 | `03-silver` | Cleans and standardises the bronze data |
 | `04-gold` | Builds dimension tables and the results fact table |
 | `05-analytics` | Driver and constructor standings views |
-| `06-orchestration` | Batch control tables (incremental version only) |
 
 ## Requirements
 
